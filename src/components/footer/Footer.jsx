@@ -22,22 +22,22 @@ const Footer = () => {
             <h4 className="text-xl mb-2">Our Technologies</h4>
             <ul>
               <li className="text-base mb-2">
-                <a href="#">ReactJS </a>
+                <a href="www.google.com">ReactJS </a>
               </li>
               <li className="text-base mb-2">
-                <a href="#">Gatsby </a>
+                <a href="www.google.com">Gatsby </a>
               </li>
               <li className="text-base mb-2">
-                <a href="#">NextJS </a>
+                <a href="www.google.com">NextJS </a>
               </li>
               <li className="text-base mb-2">
-                <a href="#">NodeJS </a>
+                <a href="www.google.com">NodeJS </a>
               </li>
               <li className="text-base mb-2">
-                <a href="#">GraphQL </a>
+                <a href="www.google.com">GraphQL </a>
               </li>
               <li className="text-base mb-2">
-                <a href="#">Laravel </a>
+                <a href="www.google.com">Laravel </a>
               </li>
             </ul>
           </div>
@@ -46,19 +46,19 @@ const Footer = () => {
             <h4 className="text-xl mb-2">Our Services</h4>
             <ul>
               <li className="text-base mb-2">
-                <a href="#">Social media Marketing </a>
+                <a href="www.google.com">Social media Marketing </a>
               </li>
               <li className="text-base mb-2">
-                <a href="#">Web & Mobile App Development </a>
+                <a href="www.google.com">Web & Mobile App Development </a>
               </li>
               <li className="text-base mb-2">
-                <a href="#">Data & Analytics </a>
+                <a href="www.google.com">Data & Analytics </a>
               </li>
               <li className="text-base mb-2">
-                <a href="#">Google Marketing solutions </a>
+                <a href="www.google.com">Google Marketing solutions </a>
               </li>
               <li className="text-base mb-2">
-                <a href="#">Search Engine Optimization </a>
+                <a href="www.google.com">Search Engine Optimization </a>
               </li>
             </ul>
           </div>
