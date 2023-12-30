@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .btn-primary {
-  @apply rounded-sm bg-orange-500 font-semibold text-white flex items-center gap-2 bg-opacity-100 uppercase;
+  @apply rounded-sm bg-secondary font-semibold text-white flex items-center gap-2 bg-opacity-100 uppercase;
 }

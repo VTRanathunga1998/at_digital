@@ -31,15 +31,15 @@ const Navbar = () => {
         <div
           onClick={() => setOpen(!open)}
           className={`z-[999]  ${
-            open ? "text-textColor" : "text-gray-100"
-          } text-5xl md:hidden m-5 cursor-pointer`}
+            open ? "text-textColor" : "text-white"
+          } text-5xl md:hidden cursor-pointer `}
         >
           <ion-icon name="menu"></ion-icon>
         </div>
 
         <div
           className={`md:hidden text-textColor absolute w-2/3 h-screen px-7 py-2 font-medium bg-white top-0 duration-300 ${
-            open ? "right-0" : "hidden"
+            open ? "right-0" : "right-[-100%]"
           } z-[998]`}
         >
           <ul className="flex flex-col justify-center h-full gap-10 py-2 text-lg">
